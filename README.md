@@ -10,7 +10,7 @@ No installations. No build steps.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/mashwani3033/TIPxSPLIT.git
+   git clone https://github.com/mashwani3033/TIPxSPLIT-tip_calculator.git
    ```
 2. Open `index.html` in any browser
 
