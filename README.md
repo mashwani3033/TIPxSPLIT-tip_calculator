@@ -2,7 +2,7 @@
 
 A clean, responsive tip calculator built for the Dev Weekends Fellowship 2026 assessment.
 
-🔗 **Repo:** https://github.com/mashwani3033/TIPxSPLIT
+🔗 **Repo:** https://github.com/mashwani3033/TIPxSPLIT-tip_calculator.git
 
 ## How to Run
 
